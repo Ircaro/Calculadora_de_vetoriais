@@ -12,7 +12,7 @@ Na próxima linha serão dados os ‘D’ números inteiros Xi (-103 <= Xi <= 10
 
 Nome da operação | Código da operação |  Entradas compatíveis
 :-----: | :-----: | :-----:
-Soma de dois vetores | 1 | Dois vetores em RN,
+Soma de dois vetores | 1 | Dois vetores em RN
 Produto escalar | 2 | Dois vetores em RN
 Multiplicação de vetor por escalar | 3 | Um vetor em RN e um número real
 
